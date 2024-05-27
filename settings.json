@@ -1,0 +1,19 @@
+{
+  // EDITOR
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 18,
+  // "workbench.sideBar.location": "right",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // GIT
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+
+  // VUE JS
+  "vue.autoInsert.dotValue": true,
+  "vue.inlayHints.missingProps": true,
+  "vue.inlayHints.vBindShorthand": true,
+  "git.confirmSync": false
+}
